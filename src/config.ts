@@ -1,5 +1,5 @@
 export const SUBTITLE = "Sua rádio em todos os rincões do Mundo"
-export const TITLE = "Patriotas do Tocantins"
+export const TITLE = "Rádio Patriotas do Tocantins"
 export const TAGLINE = "Clique nos links abaixo"
 
 // Contacts
