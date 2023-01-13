@@ -1,5 +1,5 @@
 ---
-title: Site
-emoji: 📝
-href: https://patriotasdotocantins.blogspot.com/
+title: Instagram
+emoji: 📸
+href: https://instagram.com/patriotasdotocantins
 ---

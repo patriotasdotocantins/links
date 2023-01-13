@@ -1,5 +1,5 @@
 ---
-title: Instagram
-emoji: 📸
-href: https://instagram.com/patriotasdotocantins
+title: Rádio
+emoji: 📻
+href: https://patriotasdotocantins.blogspot.com/
 ---
