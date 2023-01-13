@@ -1,5 +1,5 @@
 ---
 title: Rádio
 emoji: 📻
-href: https://patriotasdotocantins.blogspot.com/
+href: https://zeno.fm/radio/web-radio-patriotas-tocantins-br/
 ---
